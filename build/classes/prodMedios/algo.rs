@@ -1,0 +1,2 @@
+prodMedios.AlgoritmoProductoMedios
+prodMedios.AlgoritmoProductoMedios$ManejadorCamposTexto
