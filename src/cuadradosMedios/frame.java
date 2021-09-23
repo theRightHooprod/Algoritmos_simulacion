@@ -257,6 +257,8 @@ public class frame extends javax.swing.JFrame {
                         almacenRi += "0." + snumero3 + "\n";
                         numero1 = Integer.parseInt(snumero3);
                     }
+                    
+                    //Hola, estoy editando mi archivo.
 
                     a1.setText(almacenYi);
                     a2.setText(almacenXi);
